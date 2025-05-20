@@ -1,6 +1,6 @@
-# TinyCalc.asm
+# TinyCalc
 
-**Name:** Sybil Raphael  
+**Author:** Sybil Raphael  
 **Creation Date:** November 29, 2024
 
 ## Description
